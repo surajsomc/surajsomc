@@ -10,6 +10,9 @@ Ultimately, my goal is to leverage my skills and enthusiasm to tackle complex ch
 Whether it's refining existing systems for efficiency, developing new tools that simplify tasks, or delving into uncharted territories,
 I am ready to contribute my creativity, critical thinking, and passion for computer science to shape a better future for all.
 
+
+- 🔭 I’m currently working on ...
+[- surajsomc/job-tracker ](https://github.com/surajsomc/job-tracker)
 <!--
 **surajsomc/surajsomc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
