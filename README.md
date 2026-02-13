@@ -12,6 +12,7 @@ I am ready to contribute my creativity, critical thinking, and passion for compu
 
 
 Projects I am currently working on
+- 📚[surajsomc/AlgoProgram](https://github.com/surajsomc/AlgoProgram) — A DSA interview prep platform with 191 problems, spaced repetition, flashcards, timed practice, streaks, and analytics. Built with Next.js, TypeScript, Prisma, and Tailwind CSS.
 - 💼[surajsomc/job-tracker ](https://github.com/surajsomc/job-tracker)
 <!--
 **surajsomc/surajsomc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
